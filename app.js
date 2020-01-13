@@ -19,4 +19,3 @@ map = new google.maps.Map(document.getElementById('map'), {
 })
 }
 
-//AIzaSyDlwGSvYwCOHzFBd8Ha-LxisZskz1oeoac
